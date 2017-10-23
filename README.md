@@ -1,3 +1,7 @@
+This is a fork of [this repo](https://github.com/remobile/react-native-splashscreen). Its purpose is only to change the ImageView.ScaleType to CENTER_CROP instead of FIT_XY on android. Otherwise the splash screen looks stretched and distorted on the less common screen sizes.
+
+---
+
 # React Native SplashScreen (remobile)
 A splashscreen for react-native, hide when application loaded
 
